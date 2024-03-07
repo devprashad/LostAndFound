@@ -46,13 +46,6 @@ The primary aim of the Lost and Found Tool is to provide a centralized platform 
 3. If unable to locate the item, the search and match algorithm will assist in locating it.
 4. Once the lost item is found, you can go to the office specified by the founder to collect your item.
 
-
-
-## Contribution
-
-Contributions to improve this repository are welcome! If you have any suggestions or would like to contribute code, feel free to open a pull request.
-
-
 ## Disclaimer
 
 While this tool aims to facilitate the process of finding lost items, we cannot guarantee the success of every search. We are not responsible for any lost items or actions taken based on information provided on this platform.
